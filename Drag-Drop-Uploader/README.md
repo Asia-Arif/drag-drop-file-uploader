@@ -37,27 +37,9 @@ Drag-Drop-Uploader/
 
 
 
-## 🚀 Getting Started
 
-No build tools, no `npm install` — this is a static site.
-
-1. **Download / unzip** the project folder.
-2. Open **`index.html`** directly in any modern browser (Chrome, Edge, Firefox, Safari).
-
-That's it. Everything runs client-side.
-
-### Optional: run via a local server
-Some browsers restrict certain APIs on the `file://` protocol. If you notice any quirks, serve the folder locally instead:
-
-```bash
-# Using Python 3
-python -m http.server 8000
-
-# Using Node (http-server package)
-npx http-server .
 ```
 
-Then visit `http://localhost:8000` in your browser.
 
 
 
